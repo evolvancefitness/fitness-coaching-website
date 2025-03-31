@@ -18,7 +18,7 @@
     <!-- About Section -->
     <section id="about">
         <h2>About Me</h2>
-        <p>Hi, I'm [Your Name], a fitness enthusiast dedicated to helping beginners achieve their fitness goals. I specialize in building strength and confidence through customized plans tailored to your needs.</p>
+        <p>Hi, I'm Oliver, a fitness enthusiast dedicated to helping beginners achieve their fitness goals. I specialize in building strength and confidence through customized plans tailored to your needs.</p>
     </section>
 
     <!-- Coaching Packages Section -->
@@ -58,7 +58,7 @@
 
     <!-- Footer Section -->
     <footer>
-        <p>&copy; 2025 Fitness Coaching by [Your Name]. All rights reserved.</p>
+        <p>&copy; 2025 Evolvance Fitness. All rights reserved.</p>
     </footer>
 
 </body>
