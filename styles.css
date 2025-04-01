@@ -7,6 +7,21 @@ body {
     color: #9b6b2e;
     line-height: 2;
 }
+.btn {
+    background-color: #b47b31;
+    color: #0e0e0e;
+    padding: 12px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    border: none;
+}
+
+.btn:hover {
+    background-color: #996621;
+    color: #fff;
+}
 
 /* Container for sections */
 .container {
