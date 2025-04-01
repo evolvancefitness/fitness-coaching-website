@@ -224,7 +224,7 @@ footer {
 /* Back Button */
 .back-btn {
     display: inline-block;
-    background-color: ##996621;
+    background-color: #b47b31;
     color: #0e0e0e;
     padding: 12px 20px;
     border-radius: 8px;
@@ -235,13 +235,13 @@ footer {
 }
 
 .back-btn:hover {
-    background-color: #996621;
+    background-color: #b47b31;
 }
 .hero-btn {
     display: inline-block;
     padding: 14px 28px;
     font-size: 1rem;
-    background-color: ##996621;
+    background-color: #b47b31;
     color: #0e0e0e;
     border: none;
     border-radius: 8px;
@@ -251,7 +251,7 @@ footer {
 }
 
 .hero-btn:hover {
-    background-color: #996621;
+    background-color: #b47b31;
     transform: translateY(-2px);
 }
 
