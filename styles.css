@@ -95,7 +95,7 @@ h3 a {
 /* Make entire service-box clickable without blue link styling */
 .service-link {
     text-decoration: none;
-    color: inherit;
+    color: 9b6b2e;
     display: block;
 }
 
