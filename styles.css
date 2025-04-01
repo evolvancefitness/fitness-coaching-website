@@ -312,6 +312,15 @@ footer {
 .transformation-img:hover {
   transform: scale(1.02);
 }
+/* Gold variant of the standard button */
+.gold-btn {
+  background-color: #9b6b2e;  /* your brand gold */
+  color: white;
+}
+
+.gold-btn:hover {
+  background-color: #b9823f;  /* slightly brighter gold on hover */
+}
 
 /* Responsive Design */
 @media (max-width: 768px) {
