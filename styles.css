@@ -299,6 +299,14 @@ footer {
     transform: translateY(-2px);
     color: #fff;
 }
+.profile-pic {
+  width: 180px;
+  border-radius: 100px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 30px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
 
 /* Responsive Design */
 @media (max-width: 768px) {
