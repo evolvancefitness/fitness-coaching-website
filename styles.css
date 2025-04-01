@@ -86,6 +86,17 @@ h3 {
     color: #9b6b2e;
     margin-top: 0;
 }
+/* Link inside h3 (like Custom Training Plans) */
+h3 a {
+    color: #9b6b2e; /* brand gold */
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+h3 a:hover {
+    color: #b9823f; /* slightly lighter gold on hover */
+    text-decoration: underline;
+}
 
 /* Contact Section */
 form {
