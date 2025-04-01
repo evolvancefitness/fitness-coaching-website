@@ -299,22 +299,18 @@ footer {
     transform: translateY(-2px);
     color: #fff;
 }
-.profile-pic {
-  width: 180px;
-  border-radius: 100px;
-  object-fit: cover;
+.myphoto.png {
+  width: 90%;
+  max-width: 700px;
   display: block;
   margin: 0 auto 30px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
+  transition: transform 0.3s ease;
 }
-.profile-pic {
-  width: 180px;
-  height: 180px;
-  border-radius: 100px;
-  object-fit: cover;
-  display: block;
-  margin: 0 auto 30px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
+.transformation-img:hover {
+  transform: scale(1.02);
 }
 
 /* Responsive Design */
