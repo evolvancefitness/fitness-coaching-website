@@ -269,6 +269,25 @@ footer {
     background-color: #b47b31;
     transform: translateY(-2px);
 }
+.plan-btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 14px 28px;
+    font-size: 1rem;
+    background-color: #b47b31;
+    color: #0e0e0e;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.plan-btn:hover {
+    background-color: #996621;
+    transform: translateY(-2px);
+    color: #fff;
+}
 
 /* Responsive Design */
 @media (max-width: 768px) {
