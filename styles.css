@@ -237,6 +237,23 @@ footer {
 .back-btn:hover {
     background-color: #996621;
 }
+.hero-btn {
+    display: inline-block;
+    padding: 14px 28px;
+    font-size: 1rem;
+    background-color: #b47b31;
+    color: #0e0e0e;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.hero-btn:hover {
+    background-color: #996621;
+    transform: translateY(-2px);
+}
 
 /* Responsive Design */
 @media (max-width: 768px) {
