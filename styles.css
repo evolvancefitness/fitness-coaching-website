@@ -40,6 +40,27 @@ body {
     margin: 0 auto;
     padding: 40px 0;
 }
+/* Base button style */
+.btn {
+  padding: 12px 24px;
+  font-size: 1rem;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 6px;
+  display: inline-block;
+  transition: background 0.3s ease;
+  text-align: center;
+}
+
+/* Gold version */
+.gold-btn {
+  background-color: #9b6b2e;
+  color: white;
+}
+
+.gold-btn:hover {
+  background-color: #b9823f;
+}
 
 /* Hero Section */
 #hero {
