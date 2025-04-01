@@ -315,7 +315,7 @@ footer {
 /* Gold variant of the standard button */
 .gold-btn {
   background-color: #9b6b2e;  /* your brand gold */
-  color: white;
+  color: #0e0e0e;
 }
 
 .gold-btn:hover {
