@@ -22,6 +22,21 @@ body {
     background-color: #996621;
     color: #fff;
 }
+@media (max-width: 768px) {
+  #hero h1 {
+    font-size: 2rem;
+    text-align: center;
+  }
+
+  #hero p {
+    text-align: center;
+  }
+
+  #hero .hero-btn {
+    display: block;
+    margin: 0 auto;
+  }
+}
 
 /* Container for sections */
 .container {
