@@ -92,6 +92,18 @@ h3 a {
     text-decoration: none;
     transition: color 0.3s ease;
 }
+/* Make entire service-box clickable without blue link styling */
+.service-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
+.service-link:hover .service-box {
+    transform: scale(1.02);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.6);
+    transition: 0.3s ease;
+}
 
 h3 a:hover {
     color: #b9823f; /* slightly lighter gold on hover */
