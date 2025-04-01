@@ -59,7 +59,7 @@ p {
     transition: background 0.3s ease;
 }
 .btn:hover {
-    background: #2563eb;
+    background: #fff;
 }
 
 /* About and Services Section */
@@ -115,7 +115,7 @@ button {
     transition: background 0.3s ease;
 }
 button:hover {
-    background: #2563eb;
+    background: #fff;
 }
 
 /* Footer */
