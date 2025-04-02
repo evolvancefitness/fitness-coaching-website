@@ -91,6 +91,10 @@ h1 {
     color: #9b6b2e;
 }
 
+#plans h1 {
+  font-size: 3rem;
+}
+
 h2 {
     font-size: 2rem;
     text-align: center;
