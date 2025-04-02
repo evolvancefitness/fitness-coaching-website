@@ -346,25 +346,12 @@ footer {
 #meet .text-box p {
   color: white;
 .logo {
-  background: linear-gradient(to right, #0f0f0f, #1a1a1a);
-  padding: 20px;
-  border-radius: 8px;
-}
-
-.logo {
-  background-color: #0f0f0f;
-  box-shadow: none;
-  border: none;
-  display: block;
-  margin: 0 auto;
-}
-
-.logo {
   background-color: #0f0f0f;
   padding: 30px;
   border-radius: 12px;
   box-shadow: 0 0 40px rgba(0, 0, 0, 0.8);
 }
+
 
 /* Responsive Design */
 @media (max-width: 768px) {
