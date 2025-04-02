@@ -78,10 +78,10 @@ body {
 }
 
 .logo {
-    width: 200px;
-    height: auto;
-    display: block;
-    margin: 0 auto;
+  width: 280px;         /* Increased from 200px */
+  height: auto;
+  display: block;
+  margin: 40px auto 0;  /* Adds space above, centers it, no bottom margin */
 }
 
 /* Typography */
