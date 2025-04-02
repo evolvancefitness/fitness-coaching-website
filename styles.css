@@ -351,6 +351,13 @@ footer {
   border-radius: 8px;
 }
 
+.logo {
+  background-color: #0f0f0f;
+  box-shadow: none;
+  border: none;
+  display: block;
+  margin: 0 auto;
+}
 
 
 /* Responsive Design */
