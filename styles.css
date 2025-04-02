@@ -346,6 +346,22 @@ footer {
 #meet .text-box p {
   color: white;
 }
+.image-crop {
+  width: 100%;
+  max-width: 450px;
+  height: 450px; /* Adjust height as needed */
+  overflow: hidden;
+  border-radius: 12px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
+  margin-bottom: 20px;
+}
+
+.image-crop img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top; /* Shows top part, hides excess bottom */
+}
 
 /* Responsive Design */
 @media (max-width: 768px) {
