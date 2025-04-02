@@ -81,7 +81,7 @@ body {
 }
 
 .logo {
-  width: 280px;         /* Increased from 200px */
+  width: 350px;         /* Increased from 200px */
   height: auto;
   display: block;
   margin: 40px auto 0;  /* Adds space above, centers it, no bottom margin */
