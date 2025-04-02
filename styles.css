@@ -359,6 +359,12 @@ footer {
   margin: 0 auto;
 }
 
+.logo {
+  background-color: #0f0f0f;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.8);
+}
 
 /* Responsive Design */
 @media (max-width: 768px) {
