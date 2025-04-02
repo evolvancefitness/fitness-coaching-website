@@ -345,6 +345,11 @@ footer {
 #meet .text-box,
 #meet .text-box p {
   color: white;
+.logo {
+  background: linear-gradient(to right, #0f0f0f, #1a1a1a);
+  padding: 20px;
+  border-radius: 8px;
+}
 
 
 
