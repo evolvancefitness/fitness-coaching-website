@@ -65,8 +65,7 @@ body {
 
 /* Hero Section */
 #hero {
-  #hero {
-  background: linear-gradient(to bottom, #0c0c0c 0%, #111111 70%, #1a1a1a 100%);
+  background: #1a1a1a
     height: 100vh;
     text-align: center;
     display: flex;
